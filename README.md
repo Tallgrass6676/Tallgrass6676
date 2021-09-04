@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tallgrass6676
-- 👀 I’m interested in making softwares which grants a advantage to the average pc noob
+- 👀 I’m specialized in making softwares which grants a advantage to the average pc noob (3+ years experience)
 - 🌱 I’m currently learning c++, python
 - 📫 How to reach me, my discord PPAP ^_^#6250
 
